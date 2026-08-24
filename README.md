@@ -24,3 +24,11 @@ Total Solved: 1
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+<!---LeetCode Topics End-->
