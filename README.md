@@ -32,6 +32,7 @@ Total Solved: 1
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0177-nth-highest-salary/) | Medium |
+| [0182-duplicate-emails](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0182-duplicate-emails/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
