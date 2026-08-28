@@ -11,5 +11,18 @@
     "submissionId": "2118587542",
     "timestamp": "1787584384",
     "path": "Easy/0070_Climbing_Stairs.java"
+  },
+  {
+    "problemId": "577",
+    "problemTitle": "Employee Bonus",
+    "problemSlug": "employee-bonus",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1099 ms",
+    "memory": "0B",
+    "submissionId": "2123238406",
+    "timestamp": "1787944459",
+    "path": "Easy/0577_Employee_Bonus.sql"
   }
 ]
