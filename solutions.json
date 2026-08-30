@@ -24,5 +24,18 @@
     "submissionId": "2123238406",
     "timestamp": "1787944459",
     "path": "Easy/0577_Employee_Bonus.sql"
+  },
+  {
+    "problemId": "607",
+    "problemTitle": "Sales Person",
+    "problemSlug": "sales-person",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1325 ms",
+    "memory": "0B",
+    "submissionId": "2124897875",
+    "timestamp": "1788084457",
+    "path": "Easy/0607_Sales_Person.sql"
   }
 ]
