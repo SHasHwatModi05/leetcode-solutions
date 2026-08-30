@@ -1,10 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 3
 
 ## Easy
 
 - Climbing Stairs ([Java](Easy/0070_Climbing_Stairs.java))
+- Employee Bonus ([MySQL](Easy/0577_Employee_Bonus.sql))
+- Sales Person ([MySQL](Easy/0607_Sales_Person.sql))
 
 ## Medium
 
@@ -18,26 +20,9 @@ Total Solved: 1
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 3 |
 | Medium | 0 |
 | Hard | 0 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0176-second-highest-salary](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0176-second-highest-salary/) | Medium |
-| [0177-nth-highest-salary](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0177-nth-highest-salary/) | Medium |
-| [0182-duplicate-emails](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0182-duplicate-emails/) | Easy |
-| [0183-customers-who-never-order](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0183-customers-who-never-order/) | Easy |
-| [0577-employee-bonus](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0577-employee-bonus/) | Easy |
-| [0586-customer-placing-the-largest-number-of-orders](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
-| [0595-big-countries](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0595-big-countries/) | Easy |
-| [0596-classes-with-at-least-5-students](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0596-classes-with-at-least-5-students/) | Easy |
-| [0619-biggest-single-number](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/0619-biggest-single-number/) | Easy |
-| [1141-user-activity-for-the-past-30-days-i](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
-<!---LeetCode Topics End-->
