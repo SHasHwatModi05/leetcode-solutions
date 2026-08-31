@@ -26,3 +26,11 @@ Total Solved: 3
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+<!---LeetCode Topics End-->
