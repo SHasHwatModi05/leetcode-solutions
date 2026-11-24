@@ -37,5 +37,18 @@
     "submissionId": "2124897875",
     "timestamp": "1788084457",
     "path": "Easy/0607_Sales_Person.sql"
+  },
+  {
+    "problemId": "1664",
+    "problemTitle": "Find Users With Valid E-Mails",
+    "problemSlug": "find-users-with-valid-e-mails",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "666 ms",
+    "memory": "0B",
+    "submissionId": "2202516175",
+    "timestamp": "1795516085",
+    "path": "Easy/1664_Find_Users_With_Valid_E-Mails.sql"
   }
 ]
