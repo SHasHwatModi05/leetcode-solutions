@@ -27,3 +27,11 @@ Total Solved: 4
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+<!---LeetCode Topics End-->
