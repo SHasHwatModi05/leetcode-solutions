@@ -50,5 +50,18 @@
     "submissionId": "2202516175",
     "timestamp": "1795516085",
     "path": "Easy/1664_Find_Users_With_Valid_E-Mails.sql"
+  },
+  {
+    "problemId": "610",
+    "problemTitle": "Triangle Judgement",
+    "problemSlug": "triangle-judgement",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "285 ms",
+    "memory": "0B",
+    "submissionId": "2204102207",
+    "timestamp": "1795716304",
+    "path": "Easy/0610_Triangle_Judgement.sql"
   }
 ]
