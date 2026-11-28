@@ -28,3 +28,11 @@ Total Solved: 5
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1873-calculate-special-bonus](https://github.com/SHasHwatModi05/Leetcode-db-progress/tree/main/1873-calculate-special-bonus/) | Easy |
+<!---LeetCode Topics End-->
