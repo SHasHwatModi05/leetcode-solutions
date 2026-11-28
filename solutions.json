@@ -63,5 +63,18 @@
     "submissionId": "2204102207",
     "timestamp": "1795716304",
     "path": "Easy/0610_Triangle_Judgement.sql"
+  },
+  {
+    "problemId": "2024",
+    "problemTitle": "Calculate Special Bonus",
+    "problemSlug": "calculate-special-bonus",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "2107 ms",
+    "memory": "0B",
+    "submissionId": "2205142202",
+    "timestamp": "1795871118",
+    "path": "Easy/2024_Calculate_Special_Bonus.sql"
   }
 ]
